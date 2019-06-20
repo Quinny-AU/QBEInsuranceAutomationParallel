@@ -1,0 +1,8 @@
+pageObjects\vehicleDetails.class
+pageObjects\finalQuote.class
+pageObjects\GreenSlipQuote.class
+pageObjects\CTP.class
+stepDefinitions\StepDefs$customerType.class
+pageObjects\insurancePreferences.class
+pageObjects\homePage.class
+stepDefinitions\StepDefs.class
